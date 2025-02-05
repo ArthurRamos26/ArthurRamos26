@@ -34,5 +34,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" style="display: inline-block; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" style="display: inline-block;" />
 </div>
-![Snake animation](https://github.com/ArthurRamos26/ArthurRamos26/blob/output/github-snake.svg)
+![Snake animation](https://github.com/ArthurRamos26/ArthueRamos26/blob/output/github-snake.svg)
+
 
