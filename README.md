@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRamos26)](https://github.com/ArthurRamos26/github-readme-stats)
 -->
 ## [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRamos26&radical)](https://github.com/ArthurRamos26/github-readme-stats)
+## Contatos:
+
+<div>
+
+<a href="https://instagram.com/arthur_correia1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
