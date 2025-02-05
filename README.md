@@ -23,9 +23,13 @@ Here are some ideas to get you started:
 
 <div>
 # ctts:
-<a href="https://instagram.com/arthur_correia1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  
+  
+  <a href="https://instagram.com/arthur_correia1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" style="display: inline-block; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" style="display: inline-block;" />
