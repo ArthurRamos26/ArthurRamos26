@@ -18,15 +18,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg
 
-      - name: Upload snake animation
-        uses: actions/upload-artifact@v4  # ATUALIZADO PARA v4
-        with:
-          name: github-snake
-          path: dist/github-snake.svg
-
-      - name: Deploy animation to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4  # ATUALIZADO PARA v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+      - name: Commit and Push to output branch
+        run: |
+          git fetch origin output || git checkout --orphan output
+          git checkout output
+          mv dist/github-snake.svg .  # Move o arquivo para o diretório raiz
+          git add github-snake.svg
+          git commit -m "Atualizando Snake Animation" || echo "Nada para commit"
+          git push origin output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
