@@ -1,20 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Arthur Ramos 👋
 
-<!--
-**ArthurRamos26/ArthurRamos26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará diversos projetos relacionados à programação, incluindo temas como **C** e **Python**.
 
-Here are some ideas to get you started:
+## 📊 Estatísticas de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRamos26)](https://github.com/ArthurRamos26/github-readme-stats)
--->
+Aqui estão algumas estatísticas de como estou contribuindo para o GitHub:
+
+![Snake animation](https://github.com/ArthurRamos26/ArthurRamos26/blob/output/github-snake.svg)
+
+---
+
+## 📈 Contribuições no GitHub
+
+### Gráfico de Contribuições no GitHub
+
+![Gráfico de Contribuições](https://github.com/ArthurRamos26/ArthurRamos26/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🛠️ Linguagens mais utilizadas
+
+Aqui estão as linguagens que mais utilizei nos meus projetos:
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRamos26&layout=compact&theme=radical)
+
+---
+
+## ⚡ Fun Facts
+
+- 🌱 Atualmente, estou aprendendo mais sobre **inteligência artificial** e **análise de dados**.
+- 👯 Estou buscando colaborar em projetos de **Machine Learning**.
+- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/arthurramos26/)
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRamos26&layout=compact&langs_count=7&theme=dracula"/>
