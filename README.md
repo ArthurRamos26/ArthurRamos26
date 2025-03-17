@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará diversos projetos rela
 
 Aqui estão algumas estatísticas de como estou contribuindo para o GitHub:
 
-![Snake animation](https://github.com/ArthurRamos26/ArthurRamos26/blob/output/github-snake.svg)
+
 
 ---
 
@@ -14,7 +14,6 @@ Aqui estão algumas estatísticas de como estou contribuindo para o GitHub:
 
 ### Gráfico de Contribuições no GitHub
 
-![Gráfico de Contribuições](https://github.com/ArthurRamos26/ArthurRamos26/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -50,7 +49,5 @@ Aqui estão as linguagens que mais utilizei nos meus projetos:
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" style="display: inline-block; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" style="display: inline-block;" />
-</div>
-![Snake animation](https://github.com/ArthurRamos26/ArthueRamos26/blob/output/github-snake.svg)
 
 
