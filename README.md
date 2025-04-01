@@ -1,53 +1,49 @@
-# Olá, eu sou o Arthur Ramos 👋
+# Olá, Mundo! 👋
 
-Bem-vindo ao meu perfil no GitHub! Aqui você encontrará diversos projetos relacionados à programação, incluindo temas como **C** e **Python**.
+<img src="https://github.com/ArthurRamos26.png" width="130px" align="right">
 
-## 📊 Estatísticas de Programação
-
-Aqui estão algumas estatísticas de como estou contribuindo para o GitHub:
-
-
+Sou um desenvolvedor apaixonado por tecnologia e sistemas embarcados. Tenho experiência com C, MicroPython e Assembly, além de trabalhar com Arduino e outros microcontroladores.
 
 ---
 
-## 📈 Contribuições no GitHub
-
-### Gráfico de Contribuições no GitHub
-
+<img src="http://img.shields.io/badge/Code%20Time-XXX%20hrs-blue" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-XXX%20thousand%20lines%20of%20code-blue" />
 
 ---
 
-## 🛠️ Linguagens mais utilizadas
-
-Aqui estão as linguagens que mais utilizei nos meus projetos:
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRamos26&layout=compact&theme=radical)
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurRamos26&theme=github_dark"/>
 
 ---
 
-## ⚡ Fun Facts
+<!--START_SECTION:waka-->
+📊 **Esta semana, gastei meu tempo em**:
 
-- 🌱 Atualmente, estou aprendendo mais sobre **inteligência artificial** e **análise de dados**.
-- 👯 Estou buscando colaborar em projetos de **Machine Learning**.
-- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/arthurramos26/)
+```text
+💬 Linguagens:
+C           X hrs XX mins ████████░░░░░░░░░░░░░░░░  XX%
+Python      X hrs XX mins ██████░░░░░░░░░░░░░░░░░░  XX%
+Assembly    X hrs XX mins ███░░░░░░░░░░░░░░░░░░░░░  XX%
+```
+<!--END_SECTION:waka-->
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRamos26&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRamos26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+---
 
-<div>
-# ctts:
+### 🚀 **Habilidades Técnicas**
 
-  
-  
-  <a href="https://instagram.com/arthur_correia1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img width="100%" src="https://skillicons.dev/icons?i=c,cpp,python,arduino,embedded,git,github,vscode,linux&theme=light&perline=12"/>
 
-</div>
+---
 
-<div style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" style="display: inline-block;" />
+### 🏆 **Gráfico de Contribuições**
+
+<img width="100%" src="https://raw.githubusercontent.com/ArthurRamos26/ArthurRamos26/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+<img width="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=225dazalnxfmbwgn3m5uxl2ai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=e16805&bar_color_cover=false" align="right">
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Explorando+o+mundo+dos+sistemas+embarcados!";)](https://git.io/typing-svg)
+
+<img width="400px" src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" align="right">
 
 
